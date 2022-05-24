@@ -165,4 +165,6 @@ body {
 
 .footer-contacts {
   font-weight: 400;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
 }
