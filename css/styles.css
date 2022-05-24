@@ -43,6 +43,7 @@ body {
 
 /* Hero */
 .hero-title {
+  font-style: normal;
   font-size: 44px;
   font-weight: 900;
   line-height: 1.36;
